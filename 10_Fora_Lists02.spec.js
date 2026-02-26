@@ -203,7 +203,7 @@ for (let i = 0; i < count; i++) {
 
 // If all are liked
 if (!clicked) {
-  console.log("⚠️ All suppliers already liked");
+  console.log(" All suppliers already liked");
 }*/
 
 }); 
